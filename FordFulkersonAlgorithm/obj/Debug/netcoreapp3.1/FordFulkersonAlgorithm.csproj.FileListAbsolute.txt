@@ -1,0 +1,13 @@
+C:\Users\illya\source\repos\FordFulkersonAlgorithm\FordFulkersonAlgorithm\bin\Debug\netcoreapp3.1\FordFulkersonAlgorithm.exe
+C:\Users\illya\source\repos\FordFulkersonAlgorithm\FordFulkersonAlgorithm\bin\Debug\netcoreapp3.1\FordFulkersonAlgorithm.deps.json
+C:\Users\illya\source\repos\FordFulkersonAlgorithm\FordFulkersonAlgorithm\bin\Debug\netcoreapp3.1\FordFulkersonAlgorithm.runtimeconfig.json
+C:\Users\illya\source\repos\FordFulkersonAlgorithm\FordFulkersonAlgorithm\bin\Debug\netcoreapp3.1\FordFulkersonAlgorithm.runtimeconfig.dev.json
+C:\Users\illya\source\repos\FordFulkersonAlgorithm\FordFulkersonAlgorithm\bin\Debug\netcoreapp3.1\FordFulkersonAlgorithm.dll
+C:\Users\illya\source\repos\FordFulkersonAlgorithm\FordFulkersonAlgorithm\bin\Debug\netcoreapp3.1\FordFulkersonAlgorithm.pdb
+C:\Users\illya\source\repos\FordFulkersonAlgorithm\FordFulkersonAlgorithm\obj\Debug\netcoreapp3.1\FordFulkersonAlgorithm.csproj.AssemblyReference.cache
+C:\Users\illya\source\repos\FordFulkersonAlgorithm\FordFulkersonAlgorithm\obj\Debug\netcoreapp3.1\FordFulkersonAlgorithm.AssemblyInfoInputs.cache
+C:\Users\illya\source\repos\FordFulkersonAlgorithm\FordFulkersonAlgorithm\obj\Debug\netcoreapp3.1\FordFulkersonAlgorithm.AssemblyInfo.cs
+C:\Users\illya\source\repos\FordFulkersonAlgorithm\FordFulkersonAlgorithm\obj\Debug\netcoreapp3.1\FordFulkersonAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\illya\source\repos\FordFulkersonAlgorithm\FordFulkersonAlgorithm\obj\Debug\netcoreapp3.1\FordFulkersonAlgorithm.dll
+C:\Users\illya\source\repos\FordFulkersonAlgorithm\FordFulkersonAlgorithm\obj\Debug\netcoreapp3.1\FordFulkersonAlgorithm.pdb
+C:\Users\illya\source\repos\FordFulkersonAlgorithm\FordFulkersonAlgorithm\obj\Debug\netcoreapp3.1\FordFulkersonAlgorithm.genruntimeconfig.cache
